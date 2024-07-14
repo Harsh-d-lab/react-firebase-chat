@@ -14,6 +14,27 @@ const Chatlist = () => {
             </div>
             <img src={addMode ? "./minus.png" : "./plus.png"} alt="plus-icon" className="add" onClick={() => setAddMode((prev) => !prev)}/>
         </div>
+        <div className="item">
+            <img src="./avatar.png" alt="avatar-image" />
+            <div className="texts">
+                <span>JShivam Dhama</span>
+                <p>Hey there! I am using WhatsApp.</p>
+            </div>
+        </div>
+        <div className="item">
+            <img src="./avatar.png" alt="avatar-image" />
+            <div className="texts">
+                <span>JShivam Dhama</span>
+                <p>Hey there! I am using WhatsApp.</p>
+            </div>
+        </div>
+        <div className="item">
+            <img src="./avatar.png" alt="avatar-image" />
+            <div className="texts">
+                <span>JShivam Dhama</span>
+                <p>Hey there! I am using WhatsApp.</p>
+            </div>
+        </div>
         </div>
     )
 }
