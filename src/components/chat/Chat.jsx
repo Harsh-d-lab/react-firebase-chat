@@ -27,7 +27,51 @@ const Chat = () => {
           <img src='./info.png' alt='info.png' />
         </div>
       </div>
-      <div className='center'></div>
+      <div className='center'>
+        <div className='message'>
+        <img src="./avatar.png" alt="avatar.png"/>
+        <div className='texts'>
+          <p>Lorem ipsum</p>
+          <span>1 min ago</span>
+        </div>
+      </div>
+      <div className='message own'>
+        <div className='texts'>
+          <p>Lorem ipsum</p>
+          <span>1 min ago</span>
+        </div>
+      </div>
+      <div className='message'>
+        <img src="./avatar.png" alt="avatar.png"/>
+        <div className='texts'>
+          <p>Lorem ipsum</p>
+          <span>1 min ago</span>
+        </div>
+      </div>
+      <div className='message own'>
+        <div className='texts'>
+          <p>Lorem ipsum</p>
+          <span>1 min ago</span>
+        </div>
+      </div>
+      <div className='message'>
+        <img src="./avatar.png" alt="avatar.png"/>
+        <div className='texts'>
+          <p>Lorem ipsum</p>
+          <span>1 min ago</span>
+        </div>
+      </div>
+      <div className='message own'>
+        <div className='texts'>
+        <img src="./avatar.png" alt='pexels'/>
+          <p>Lorem ipsum
+          Lorem ipsum
+          Lorem ipsum
+          Lorem ipsum</p>
+          <span>1 min ago</span>
+        </div>
+      </div>
+      </div>
       <div className='bottom'>
         <div className='icons'>
           <img src='./img.png' alt='img.png' />
