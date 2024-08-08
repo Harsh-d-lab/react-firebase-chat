@@ -17,42 +17,42 @@ const Chatlist = () => {
         <div className="item">
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
-                <span>Shivam Dhama</span>
+                <span>Shivam</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
         <div className="item">
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
-                <span>Ujjwal Dhama</span>
+                <span>Ujjwal</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
         <div className="item">
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
-                <span>Kartik Dhama</span>
+                <span>Kartik</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
         <div className="item">
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
-                <span>Nancy Dhama</span>
+                <span>Manasvi</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
         <div className="item">
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
-                <span>Aruna Dhama</span>
+                <span>Nancy</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
         <div className="item">
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
-                <span>Manasvi Dhama</span>
+                <span>Yogi</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
