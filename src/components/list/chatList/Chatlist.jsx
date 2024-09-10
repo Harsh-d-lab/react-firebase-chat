@@ -38,7 +38,7 @@ const Chatlist = () => {
         <div className="item">
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
-                <span>Manasvi</span>
+                <span>Abhi</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
@@ -46,13 +46,6 @@ const Chatlist = () => {
             <img src="./avatar.png" alt="avatar-image" />
             <div className="texts">
                 <span>Nancy</span>
-                <p>Hey there! I am using WhatsApp.</p>
-            </div>
-        </div>
-        <div className="item">
-            <img src="./avatar.png" alt="avatar-image" />
-            <div className="texts">
-                <span>Yogi</span>
                 <p>Hey there! I am using WhatsApp.</p>
             </div>
         </div>
